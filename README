@@ -8,5 +8,8 @@ Filelist
 manifest
   Manifest for resync application
 
+pdf/
+  Portable Document Format files
+
 printer.txt
   Printers
